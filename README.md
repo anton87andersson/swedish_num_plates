@@ -1,7 +1,8 @@
 # Swedish Number Plates
 
-This is my learning project for JAVA.
-It creates an json-file that holds all possible Swedish number plats lika AAA000, A-Z 0-9.
+This is my own learning project for JAVA.
+
+It creates an json-file (or txt if you want that) that holds all possible Swedish number plats lika AAA000, A-Z 0-9.
 
 There is 17.576.000 possibilitys from this, and i want to see how far i can take this and speed it up more and more after learning new stuff in Java !
 
