@@ -14,4 +14,5 @@ Now the first time im running it it takes 12 minutes and 7 seconds on a Intel(R)
 
 ```p
 Current time: 12 minutes and 7 seconds
+2022-06-27
 ```
